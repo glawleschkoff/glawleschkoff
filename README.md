@@ -12,14 +12,14 @@ I focus on bridging **Active Inference** and **first-principles probabilistic in
   Simulating active inference across 16 coupled p-bits in JAX via continuous double-well Langevin dynamics.  
   👉 **[Interactive 3D Live Demo](https://glawleschkoff.github.io/thermodynamic-reasoning/)**
 
-- **[Master's Research: Contextual Information Seeking](https://github.com/glawleschkoff/master-thesis)**  
+- **[Master's Research: Contextual Information Seeking for Active Inference](https://github.com/glawleschkoff/master-thesis)**  
   Formulation of Bethe and generalized free energy functionals on Forney-style Factor Graphs with analytical closed-form message passing schemes.
 
 ---
 
 ### 🛠️ Technical Stack & Research Methods
 
-- **Core:** Python, JAX, NumPy, SciPy
+- **Core:** Python, JAX, NumPy
 - **Theoretical Paradigms:** Active Inference, Free Energy Principle, Factor Graphs (FFG), Langevin Dynamics, Markov Random Fields, Dynamical Systems
 - **Tools:** Git, LaTeX, TikZ
 
