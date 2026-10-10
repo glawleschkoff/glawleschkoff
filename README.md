@@ -1,28 +1,27 @@
-# Hi, I'm Moritz Glawleschkoff 👋
+# Hi, I'm Moritz Glawleschkoff
 
-Computational Neuroscientist (M.Sc., Univ. of Freiburg) with a Computer Science background (B.Sc., LMU Munich). 
+Computational Neuroscientist (M.Sc., Univ. of Freiburg) with a Computer Science background (B.Sc., LMU Munich).
 
-I focus on bridging **Active Inference** and **first-principles probabilistic inference** with **physical & thermodynamic computing architectures** (stochastic dynamical systems, Langevin dynamics, and p-bits).
+I focus on bridging Active Inference and first-principles probabilistic inference with physical & thermodynamic computing architectures.
 
 ---
 
-### 🔬 Featured Work
+### Featured Work
 
 - **[Thermodynamic Reasoning — p-bit POMDP](https://github.com/glawleschkoff/thermodynamic-reasoning)**  
   Simulating POMDP belief updating and energy-based planning across 16 coupled p-bits in JAX via double-well Langevin dynamics.  
-  👉 **[Interactive 3D Live Demo](https://glawleschkoff.github.io/thermodynamic-reasoning/)**
+  [Interactive 3D Live Demo](https://glawleschkoff.github.io/thermodynamic-reasoning/)
 
 - **[Master's Research: Contextual Information Seeking for Active Inference](https://github.com/glawleschkoff/master-thesis)**  
   Unifying perception, planning, and action in POMDPs on Forney-style factor graphs. Derives closed-form message passing with custom Bethe and generalized free energy functionals to actively resolve contextual uncertainty through curiosity.
 
 ---
 
-### 🛠️ Technical Stack & Research Methods
+### Theory & Computation
 
-- **Core:** Python, JAX, NumPy
-- **Theoretical Paradigms:** Active Inference, Free Energy Principle, Factor Graphs (FFG), Langevin Dynamics, Markov Random Fields, Dynamical Systems
-- **Tools:** Git, LaTeX, TikZ
+* **Theory:** Active Inference, Free Energy Principle, Factor Graphs (FFG), Message Passing, Langevin Dynamics
+* **Computation:** Python, NumPy, JAX
 
 ---
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/glawleschkoff) | Munich, Germany
+**Connect:** [LinkedIn](https://www.linkedin.com/in/glawleschkoff) | Munich, Germany
