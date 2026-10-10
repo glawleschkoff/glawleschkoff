@@ -12,7 +12,7 @@ I focus on bridging Active Inference and first-principles probabilistic inferenc
   Simulating POMDP belief updating and energy-based planning across 16 coupled p-bits in JAX via double-well Langevin dynamics.  
   [Interactive 3D Live Demo](https://glawleschkoff.github.io/thermodynamic-reasoning/)
 
-- **[Master's Research - Contextual Information Seeking for Active Inference](https://github.com/glawleschkoff/master-thesis)**  
+- **[Master's Research – Contextual Information Seeking for Active Inference](https://github.com/glawleschkoff/master-thesis)**  
   Unifying perception, planning, and action in POMDPs on Forney-style factor graphs. This work derives closed-form message passing with custom Bethe and generalized free energy functionals to actively resolve contextual uncertainty through curiosity.
 
 ---
