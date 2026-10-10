@@ -1,4 +1,4 @@
-# Hi, I'm Moritz Glawleschkoff
+# Hi, I'm Moritz
 
 Computational Neuroscientist (M.Sc., Univ. of Freiburg) with a Computer Science background (B.Sc., LMU Munich).
 
