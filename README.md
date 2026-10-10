@@ -21,7 +21,3 @@ I focus on bridging Active Inference and first-principles probabilistic inferenc
 
 * **Theory:** Active Inference, Free Energy Principle, Factor Graphs (FFG), Message Passing, Langevin Dynamics
 * **Computation:** Python, NumPy, JAX
-
----
-
-**Connect:** [LinkedIn](https://www.linkedin.com/in/glawleschkoff) | Munich, Germany
