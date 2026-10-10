@@ -9,7 +9,7 @@ I focus on bridging **Active Inference** and **first-principles probabilistic in
 ### 🔬 Featured Work
 
 - **[Thermodynamic Reasoning — p-bit POMDP](https://github.com/glawleschkoff/thermodynamic-reasoning)**  
-  Simulating active inference across 16 coupled p-bits in JAX via continuous double-well Langevin dynamics.  
+  Simulating POMDP belief updating and energy-based planning across 16 coupled p-bits in JAX via continuous double-well Langevin dynamics.  
   👉 **[Interactive 3D Live Demo](https://glawleschkoff.github.io/thermodynamic-reasoning/)**
 
 - **[Master's Research: Contextual Information Seeking for Active Inference](https://github.com/glawleschkoff/master-thesis)**  
