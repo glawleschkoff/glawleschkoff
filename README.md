@@ -13,7 +13,7 @@ I focus on bridging **Active Inference** and **first-principles probabilistic in
   👉 **[Interactive 3D Live Demo](https://glawleschkoff.github.io/thermodynamic-reasoning/)**
 
 - **[Master's Research: Contextual Information Seeking for Active Inference](https://github.com/glawleschkoff/master-thesis)**  
-  Formulation of Bethe and generalized free energy functionals on Forney-style Factor Graphs with analytical closed-form message passing schemes.
+  Unifying perception, planning, and action in contextual POMDPs on Forney-style factor graphs. Implements closed-form message passing with custom Bethe and generalized free energy functionals to drive curiosity-based information seeking.
 
 ---
 
